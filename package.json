@@ -13,6 +13,7 @@
 	"author": "Catherine Clague",
 	"license": "ISC",
 	"devDependencies": {
-		"grunt": "^1.0.3"
+		"grunt": "^1.0.3",
+		"grunt-contrib-cssmin": "^2.2.1"
 	}
 }
